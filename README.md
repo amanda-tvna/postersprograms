@@ -17,3 +17,5 @@
 <img width="960" alt="HORIZONTAL POSTER 169 - MSMI-2025-001" src="https://github.com/user-attachments/assets/1e070ad4-808a-4d86-a737-c1a456fea4d3" />
 <img width="960" alt="HORIZONTAL POSTER 169 - PAJ-2025-001" src="https://github.com/user-attachments/assets/e142a6b2-2723-4e37-bf09-23a948337b46" />
 <img width="960" alt="HORIZONTAL POSTER 169 - PL-2025-001" src="https://github.com/user-attachments/assets/ae9882ad-0630-4602-8e92-0c269fbcc034" />
+![12](https://github.com/user-attachments/assets/e15bf451-8736-40ff-98c0-65416411e0eb)
+![13](https://github.com/user-attachments/assets/5726dbe3-26ae-4608-83f0-e8a8223c51e8)
