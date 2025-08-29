@@ -20,3 +20,5 @@
 ![12](https://github.com/user-attachments/assets/e15bf451-8736-40ff-98c0-65416411e0eb)
 ![13](https://github.com/user-attachments/assets/5726dbe3-26ae-4608-83f0-e8a8223c51e8)
 <img width="350" height="210" alt="Poster DR  AGRO" src="https://github.com/user-attachments/assets/8a0a09a4-77ba-41a7-aba1-6f6f3fd162d8" />
+<img width="1280" height="720" alt="_DR  AGRO 1280x720" src="https://github.com/user-attachments/assets/953e200b-3e66-4d86-a004-457eab859365" />
+<img width="1280" height="720" alt="BRTVMAX 1280x720" src="https://github.com/user-attachments/assets/98dc6832-ac40-4480-876c-f97dd6fcaaa0" />
